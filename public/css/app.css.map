@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../stdin"],"names":[],"mappings":"AAEA,mCAAO;AACP,sCAAO;AACP,2CAAO","file":"app.css","sourcesContent":["// @import \"node_modules/bootstrap-sass/assets/stylesheets/bootstrap\";\n\n@import \"css/bootstrap.min.css\";\n@import \"css/font-awesome.min.css\";\n@import \"css/smartadmin-production.css\";"],"sourceRoot":"/source/"}
