@@ -1,0 +1,16 @@
+{
+  "name": "state",
+  "version": "0.0.0",
+  "homepage": "https://github.com/marygale/state",
+  "authors": [
+    "Mary Gale <mary.jabagat@corp.mobile.co>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
